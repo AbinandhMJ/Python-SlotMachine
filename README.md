@@ -24,3 +24,5 @@ Welcome to the **Slot Machine Game🎰** repository! This simple console-based g
 3. Follow the on-screen instructions to deposit, set your bets, and spin.
 
 Feel the excitement, take risks, and test your luck with the **Slot Machine Game**. Have fun gaming 🎮!
+
+-HAPPY GAMING
